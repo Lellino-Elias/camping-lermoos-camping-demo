@@ -86,8 +86,8 @@ const campingLermoos: CampsiteConfig = {
       },
       {
         title: "Sanitär & Waschräume",
-        text: "Gepflegte Waschräume mit Spülküche und Einzelwaschkabinen — hell und sauber gehalten.",
-        image: { src: `${IMG}/gallery-5d368413c1.webp`, alt: "Heller Waschraum mit Spülbecken am Campingplatz" },
+        text: "Gepflegte Sanitärräume mit Einzelwaschkabinen sowie Waschmaschine & Trockner — hell und sauber gehalten.",
+        image: { src: `${IMG}/amenity-ceec1671bf.webp`, alt: "Stellplätze mit Wohnwagen unter Kiefern am Happy Camp Lermoos" },
       },
       {
         title: "Strom, Gas & Wasser",
