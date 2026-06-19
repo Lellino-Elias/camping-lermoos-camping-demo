@@ -77,7 +77,7 @@ const campingLermoos: CampsiteConfig = {
       {
         title: "Großzügige Stellplätze",
         text: "Weite, ebene Plätze auf gepflegter Wiese, mit freiem Blick auf die Berge rundherum.",
-        image: { src: `${IMG}/amenity-e4c8ef4da2.webp`, alt: "Stellplatz mit Wohnwagen vor dem Zugspitzmassiv am Happy Camp" },
+        image: { src: `${IMG}/amenity-89bba76967.webp`, alt: "Weitläufige Stellfläche am Happy Camp Lermoos mit Campervans und Bergblick" },
       },
       {
         title: "Stellplätze mit Bergblick",
@@ -87,12 +87,12 @@ const campingLermoos: CampsiteConfig = {
       {
         title: "Sanitär & Waschräume",
         text: "Gepflegte Sanitärräume mit Einzelwaschkabinen sowie Waschmaschine & Trockner — hell und sauber gehalten.",
-        image: { src: `${IMG}/amenity-ceec1671bf.webp`, alt: "Stellplätze mit Wohnwagen unter Kiefern am Happy Camp Lermoos" },
+        image: { src: `${IMG}/gallery-5d368413c1.webp`, alt: "Heller Waschraum mit Spülbecken und Waschmaschine am Happy Camp Lermoos" },
       },
       {
         title: "Strom, Gas & Wasser",
         text: "Jeder Bereich mit Anschluss für Strom, Gas, Wasser und Abwasser, dazu ein Trockenraum.",
-        image: { src: `${IMG}/amenity-89bba76967.webp`, alt: "Weitläufige Stellfläche am Happy Camp Lermoos" },
+        image: { src: `${IMG}/amenity-e4c8ef4da2.webp`, alt: "Stellplätze mit Dauercampern und Vollausstattung am Happy Camp Lermoos" },
       },
       {
         title: "Ruhig am Ortsrand",
@@ -120,7 +120,7 @@ const campingLermoos: CampsiteConfig = {
       {
         title: "Schaukeln mit Bergblick",
         text: "Schaukeln, Karussell und ganz viel Platz zum Toben — dahinter das weite Bergpanorama.",
-        image: { src: `${IMG}/kids-5c21f165f3.webp`, alt: "Schaukeln am Spielplatz vor Bergkulisse" },
+        image: { src: `${IMG}/kids-5c21f165f3.webp`, alt: "Klettergerüst mit Seilen am Spielplatz vor dem Zugspitzmassiv" },
       },
       {
         title: "Pumptrack & Soccer",
