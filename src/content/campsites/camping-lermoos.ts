@@ -77,17 +77,17 @@ const campingLermoos: CampsiteConfig = {
       {
         title: "Großzügige Stellplätze",
         text: "Weite, ebene Plätze auf gepflegter Wiese, mit freiem Blick auf die Berge rundherum.",
-        image: { src: `${IMG}/amenity-89bba76967.webp`, alt: "Weitläufige Stellfläche am Happy Camp Lermoos mit Campervans und Bergblick" },
+        image: { src: `${IMG}/amenity-c4542eb410.webp`, alt: "Stellplatzgasse mit Wohnwagen, Bäumen und Zugspitzblick am Happy Camp Lermoos" },
       },
       {
         title: "Stellplätze mit Bergblick",
         text: "Schattige Plätze unter alten Bäumen, dahinter das markante Gipfelpanorama von Lermoos.",
-        image: { src: `${IMG}/amenity-c4542eb410.webp`, alt: "Stellplatzgasse unter Bäumen mit Bergblick" },
+        image: { src: `${IMG}/amenity-89bba76967.webp`, alt: "Stellplätze am Happy Camp Lermoos mit Campervans und Berghintergrund" },
       },
       {
-        title: "Sanitär & Waschräume",
-        text: "Gepflegte Sanitärräume mit Einzelwaschkabinen sowie Waschmaschine & Trockner — hell und sauber gehalten.",
-        image: { src: `${IMG}/gallery-5d368413c1.webp`, alt: "Heller Waschraum mit Spülbecken und Waschmaschine am Happy Camp Lermoos" },
+        title: "Gepflegte Anlage & Wege",
+        text: "Sauber angelegte Wege zwischen den Stellplätzen, viel Grün, alte Bäume und der Blick auf das Bergpanorama.",
+        image: { src: `${IMG}/amenity-ceec1671bf.webp`, alt: "Gepflegte Stellplatzgasse mit Wohnwagen, hohen Tannen und Berggipfel am Happy Camp Lermoos" },
       },
       {
         title: "Strom, Gas & Wasser",
