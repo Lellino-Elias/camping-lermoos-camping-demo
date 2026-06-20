@@ -120,7 +120,7 @@ const campingLermoos: CampsiteConfig = {
       {
         title: "Schaukeln mit Bergblick",
         text: "Schaukeln, Karussell und ganz viel Platz zum Toben — dahinter das weite Bergpanorama.",
-        image: { src: `${IMG}/kids-5c21f165f3.webp`, alt: "Klettergerüst mit Seilen am Spielplatz vor dem Zugspitzmassiv" },
+        image: { src: `${IMG}/kids-7ca7888e95.webp`, alt: "Schaukeln und Spielgeräte auf dem Abenteuerspielplatz mit Zugspitzpanorama" },
       },
       {
         title: "Pumptrack & Soccer",
