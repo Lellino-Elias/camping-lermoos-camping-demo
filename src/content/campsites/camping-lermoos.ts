@@ -28,7 +28,7 @@ const campingLermoos: CampsiteConfig = {
     {
       title: "Freier Zugspitzblick",
       text: "Vom ganzen Platz blickst du frei auf die Zugspitze und das weite Bergpanorama von Lermoos.",
-      image: { src: `${IMG}/gallery-b9160fc87d.webp`, alt: "Blick auf das Zugspitzmassiv bei Lermoos" },
+      image: { src: `${IMG}/amenity-b4db2f831c.webp`, alt: "Blick auf Zugspitze und Lermoos vom Balkon des Gästehauses" },
     },
     {
       title: "Parkähnlicher Campingplatz",
@@ -82,12 +82,12 @@ const campingLermoos: CampsiteConfig = {
       {
         title: "Stellplätze mit Bergblick",
         text: "Schattige Plätze unter alten Bäumen, dahinter das markante Gipfelpanorama von Lermoos.",
-        image: { src: `${IMG}/amenity-89bba76967.webp`, alt: "Stellplätze am Happy Camp Lermoos mit Campervans und Berghintergrund" },
+        image: { src: `${IMG}/amenity-ceec1671bf.webp`, alt: "Stellplatzgasse mit Wohnwagen, Bäumen und Bergpanorama am Happy Camp Lermoos" },
       },
       {
         title: "Gepflegte Anlage & Wege",
         text: "Sauber angelegte Wege zwischen den Stellplätzen, viel Grün, alte Bäume und der Blick auf das Bergpanorama.",
-        image: { src: `${IMG}/amenity-ceec1671bf.webp`, alt: "Gepflegte Stellplatzgasse mit Wohnwagen, hohen Tannen und Berggipfel am Happy Camp Lermoos" },
+        image: { src: `${IMG}/gallery-f0d5fdd210.webp`, alt: "Gepflegter Weg mit alten Bäumen und Wegkreuz am Happy Camp Lermoos" },
       },
       {
         title: "Strom, Gas & Wasser",
@@ -158,8 +158,8 @@ const campingLermoos: CampsiteConfig = {
     images: [
       { src: `${IMG}/gallery-7db81ec8a1.webp`, alt: "Campingplatz mit Gästehaus vor dem Bergpanorama" },
       { src: `${IMG}/gallery-e728da0858.webp`, alt: "Zimmer im Gästehaus mit Sitzecke" },
-      { src: `${IMG}/gallery-7cf00e5281.webp`, alt: "Gemütliche Gaststube im Gästehaus" },
-      { src: `${IMG}/gallery-67c5237e33.webp`, alt: "Terrasse am Gästehaus des Happy Camp" },
+      { src: `${IMG}/gallery-82ead6e244.webp`, alt: "Gemütliche Gaststube im Gästehaus des Happy Camp" },
+      { src: `${IMG}/gallery-962a287365.webp`, alt: "Komfortzimmer im Gästehaus des Happy Camp mit Bergblick" },
     ],
   },
 
